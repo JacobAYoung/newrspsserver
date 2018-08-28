@@ -1,0 +1,497 @@
+[ACCOUNT]
+character-username = Jake
+character-password = de160b5a0c1066d276f21177fe9d61f5
+
+[CHARACTER]
+character-rights = 3
+character-rights-secondary = 0	3	18
+character-mac-address = 0A-00-27-00-00-06
+character-ip-address = 64.251.145.120
+revert-option = 
+mode = REGULAR
+tutorial-stage = END
+character-height = 0
+character-hp = 28
+play-time = 3619
+last-clan = Help
+character-specRestore = 0
+character-posx = 3092
+character-posy = 3497
+bank-pin = 
+bank-pin-cancellation = false
+bank-pin-unlock-delay = 0
+placeholders = true
+newStarter = false
+bank-pin-cancellation-delay = -1
+dailyTaskDate = 0
+totalDailyDone = 0
+currentTask = 
+completedDailyTask = false
+playerChoice = 
+dailyEnabled = false
+show-drop-warning = false
+hourly-box-toggle = true
+fractured-crystal-toggle = true
+accept-aid = false
+did-you-know = true
+lootvalue = 0
+raidPoints = 90000000
+maRound = 0
+raidCount = 0
+experience-counter = 390290
+character-title-updated = Administrator
+removed-slayer-tasks = 			
+last-incentive = 0
+rfd-round = 0
+run-energy = 100
+character-historyItems = 0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+character-historyItemsN = 0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+character-historyPrice = 0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+lastLoginDate = 0
+has-npc = true
+summonId = 21992
+startPack = true
+crystalDrop = false
+setPin = false
+slayer-helmet = false
+slayer-imbued-helmet = false
+bigger-boss-tasks = false
+cerberus-route = false
+superior-slayer = false
+slayer-tasks-completed = 0
+claimedReward = false
+dragonfire-shield-charge = 0
+rfd-gloves = 0
+wave-id = 0
+wave-type = 0
+wave-info = 0	0	0
+master-clue-reqs = 0	0	0	0
+counters = 0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+max-cape = false	false	false	false	false
+zulrah-best-time = 0
+toxic-staff = 0
+toxic-pipe-ammo = 0
+toxic-pipe-amount = 0
+toxic-pipe-charge = 0
+serpentine-helm = 0
+trident-of-the-seas = 0
+trident-of-the-swamp = 0
+arclight-charge = 0
+slayerPoints = 90000000
+crystal-bow-shots = 0
+skull-timer = -1
+magic-book = 0
+ahrim = false
+dharok = false
+guthan = false
+karil = false
+torag = false
+verac = false
+barrows-final-brother = Ahrim
+barrows-monsters-killcount = 0
+barrows-completed = false
+special-amount = 10.0
+prayer-amount = 0.7715562641078979
+KC =0
+DC =0
+total-hunter-kills = 0
+total-rogue-kills = 0
+target-time-delay = 0
+bh-penalties = 0
+bh-bounties = 299450000
+statistics-visible = true
+spell-accessible = false
+zerkAmount = 
+pkp = 89996249
+donP =90000000
+donA =90002561
+prestige-points = 90000000
+votePoints = 89997956
+bloodPoints = 90000000
+achievement-points = 90000000
+achievement-items = -1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+xpLock = false
+teleblock-length = 0
+VarrockClaimedDiaries = 
+ArdougneClaimedDiaries = 
+DesertClaimedDiaries = 
+FaladorClaimedDiaries = 
+FremennikClaimedDiaries = 
+KandarinClaimedDiaries = 
+KaramjaClaimedDiaries = 
+LumbridgeClaimedDiaries = 
+MorytaniaClaimedDiaries = 
+WesternClaimedDiaries = 
+WildernessClaimedDiaries = 
+diaries = POTION_DECANT
+partialDiaries = DAGANNOTH_KINGS:3
+pc-points = 90000000
+total-raids = 0
+killStreak = 0
+bonus-end = 0
+jail-end = 0
+mute-end = 0
+marketmute-end = 0
+last-yell = 0
+splitChat = true
+slayer-master = 0
+consecutive-tasks = 0
+mage-arena-points = 0
+shayzien-assault-points = 0
+autoRet = 0
+flagged = false
+keepTitle = false
+killTitle = false
+wave = 0
+gwkc = 0
+fightMode = 2
+privatechat = 0
+void = 0	0	0	0	0
+quickprayer = false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	
+pouch-rune = 0	0	0
+pouch-pure = 0	0	0
+crabsKilled = 0
+farming-poison-berry = 0
+herb-patch 0 = 0	0	0	0	0
+herb-patch 1 = 0	0	0	0	0
+herb-patch 2 = 0	0	0	0	0
+herb-patch 3 = 0	0	0	0	0
+herb-patch 4 = 0	0	0	0	0
+herb-patch 5 = 0	0	0	0	0
+herb-patch 6 = 0	0	0	0	0
+herb-patch 7 = 0	0	0	0	0
+compostBin = 0
+halloweenOrderGiven = 0	0	0	0	0	0	0	0	0	0
+halloweenOrderChosen = 0	0	0	0	0	0	0	0	0	0
+halloweenOrderNumber = 0
+district-levels = 0	0	0	0	0	0	0	0
+inDistrict = false
+safeBoxSlots = 15
+lost-items = 
+lost-items-cerberus = 
+lost-items-skotizo = 
+
+[EQUIPMENT]
+character-equip = 0	-1	0	
+character-equip = 1	-1	1	
+character-equip = 2	-1	0	
+character-equip = 3	22324	1	
+character-equip = 4	-1	0	
+character-equip = 5	22322	1	
+character-equip = 6	-1	0	
+character-equip = 7	-1	0	
+character-equip = 8	-1	0	
+character-equip = 9	-1	1	
+character-equip = 10	-1	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	0
+character-look = 2	18
+character-look = 3	26
+character-look = 4	33
+character-look = 5	36
+character-look = 6	42
+character-look = 7	10
+character-look = 8	0
+character-look = 9	0
+character-look = 10	0
+character-look = 11	0
+character-look = 12	0
+
+[SKILLS]
+character-skill = 0	99	13034432	false	0
+character-skill = 1	99	13034432	false	0
+character-skill = 2	99	13312432	false	0
+character-skill = 3	99	13221232	false	0
+character-skill = 4	99	13316932	false	0
+character-skill = 5	85	13034432	false	0
+character-skill = 6	99	13034432	false	0
+character-skill = 7	99	13034432	false	0
+character-skill = 8	99	13034432	false	0
+character-skill = 9	99	13034432	false	0
+character-skill = 10	99	13034432	false	0
+character-skill = 11	99	13034432	false	0
+character-skill = 12	99	13034432	false	0
+character-skill = 13	99	13034432	false	0
+character-skill = 14	99	13034432	false	0
+character-skill = 15	99	13034432	false	0
+character-skill = 16	99	13034432	false	0
+character-skill = 17	99	13067712	false	0
+character-skill = 18	99	13034432	false	0
+character-skill = 19	99	13034432	false	0
+character-skill = 20	99	13034432	false	0
+character-skill = 21	99	13034432	false	0
+character-skill = 22	99	13034436	false	0
+character-skill = 23	99	13034436	false	0
+character-skill = 24	99	13034436	false	0
+
+[ITEMS]
+character-item = 0	996	969660999
+
+[RECHARGEITEMS]
+item = 	0	3	2018-08-27 23:16:18
+item = 	13120	2	2018-08-27 23:16:18
+item = 	1	3	2018-08-27 23:16:18
+item = 	2	150	2018-08-27 23:16:18
+item = 	13125	2	2018-08-27 23:16:18
+item = 	13126	3	2018-08-27 23:16:18
+item = 	13127	4	2018-08-27 23:16:18
+item = 	13128	3	2018-08-27 23:16:18
+item = 	13143	1	2018-08-27 23:16:18
+item = 	13111	5	2018-08-27 23:16:18
+item = 	13144	1	2018-08-27 23:16:18
+item = 	13117	1	2018-08-27 23:16:18
+item = 	13118	1	2018-08-27 23:16:18
+item = 	13119	1	2018-08-27 23:16:18
+
+[BANK]
+bank-tab = 0	9758	1
+bank-tab = 0	9765	1
+bank-tab = 0	9762	1
+bank-tab = 0	9764	1
+bank-tab = 0	9759	1
+bank-tab = 0	9770	1
+bank-tab = 0	9771	1
+bank-tab = 0	9752	1
+bank-tab = 0	9753	1
+bank-tab = 0	9755	1
+bank-tab = 0	9756	1
+bank-tab = 0	9750	1
+bank-tab = 0	13281	3
+bank-tab = 0	13282	2
+bank-tab = 0	12400	1
+bank-tab = 0	11863	2
+bank-tab = 0	11864	2
+bank-tab = 0	13174	1
+bank-tab = 0	13264	1
+bank-tab = 0	12007	1
+bank-tab = 0	13344	1
+bank-tab = 0	13345	1
+bank-tab = 0	1051	1
+bank-tab = 0	12786	1
+bank-tab = 0	11803	1
+bank-tab = 0	13266	1
+bank-tab = 0	12810	1
+bank-tab = 0	11772	1
+bank-tab = 0	11771	1
+bank-tab = 0	12925	1
+bank-tab = 0	19482	1
+bank-tab = 0	11786	2
+bank-tab = 0	12808	1
+bank-tab = 0	12807	1
+bank-tab = 0	11287	1
+bank-tab = 0	11773	1
+bank-tab = 0	12692	1
+bank-tab = 0	12693	1
+bank-tab = 0	19551	2
+bank-tab = 0	12854	1
+bank-tab = 0	6586	1
+bank-tab = 0	19548	1
+bank-tab = 0	19545	1
+bank-tab = 0	11831	1
+bank-tab = 0	11829	1
+bank-tab = 0	11827	1
+bank-tab = 0	11835	2
+bank-tab = 0	11833	1
+bank-tab = 0	13238	1
+bank-tab = 0	13236	1
+bank-tab = 0	13234	1
+bank-tab = 0	1894	1
+bank-tab = 0	12856	1
+bank-tab = 0	12850	1
+bank-tab = 0	12801	1
+bank-tab = 0	11942	1
+bank-tab = 0	12420	1
+bank-tab = 0	12421	2
+bank-tab = 0	12460	1
+bank-tab = 0	12805	1
+bank-tab = 0	12852	1
+bank-tab = 0	12459	1
+bank-tab = 0	12422	1
+bank-tab = 0	12792	1
+bank-tab = 0	12770	1
+bank-tab = 0	12857	1
+bank-tab = 0	12758	1
+bank-tab = 0	12799	1
+bank-tab = 0	12803	1
+bank-tab = 0	12458	1
+bank-tab = 0	12527	2
+bank-tab = 0	4723	1
+bank-tab = 0	6307	47439
+bank-tab = 0	11284	2
+bank-tab = 0	12818	1
+bank-tab = 0	9767	1
+bank-tab = 0	4737	1
+bank-tab = 0	4721	1
+bank-tab = 0	13347	8
+bank-tab = 0	13199	1
+bank-tab = 0	9768	1
+bank-tab = 0	9788	1
+bank-tab = 0	9789	1
+bank-tab = 0	21013	1
+bank-tab = 0	13067	1
+bank-tab = 0	13577	4
+bank-tab = 0	22110	1
+bank-tab = 0	13330	1
+bank-tab = 0	13331	1
+bank-tab = 0	13338	1
+bank-tab = 0	7463	2
+bank-tab = 0	140	2
+bank-tab = 0	527	1
+bank-tab = 0	6571	2
+bank-tab = 0	392	5
+bank-tab = 0	22326	1
+bank-tab = 0	22324	1
+bank-tab = 0	4152	2
+bank-tab = 0	2435	3
+bank-tab = 0	12698	1
+bank-tab = 0	12900	1
+bank-tab = 0	22371	1
+bank-tab = 0	20785	1
+bank-tab = 0	13653	1
+bank-tab = 0	996	0
+bank-tab = 0	13191	1
+bank-tab = 0	19992	1
+bank-tab = 0	12368	1
+bank-tab = 0	2578	1
+bank-tab = 0	12597	1
+bank-tab = 0	6740	1
+bank-tab = 0	11921	1
+bank-tab = 0	12798	1
+bank-tab = 0	20212	1
+bank-tab = 0	6667	1
+bank-tab = 0	13244	1
+bank-tab = 0	13242	1
+bank-tab = 0	21029	1
+bank-tab = 0	20757	1
+bank-tab = 0	13222	1
+bank-tab = 0	20051	1
+bank-tab = 0	20218	1
+bank-tab = 0	20215	1
+bank-tab = 0	20998	1
+bank-tab = 0	7510	1
+bank-tab = 0	20197	2
+bank-tab = 0	12310	1
+bank-tab = 0	12326	2
+bank-tab = 0	20009	1
+bank-tab = 0	7410	1
+bank-tab = 0	22327	1
+bank-tab = 0	12302	1
+bank-tab = 0	12417	1
+bank-tab = 0	20033	1
+bank-tab = 0	12442	1
+bank-tab = 0	2616	1
+bank-tab = 0	12433	1
+bank-tab = 0	7400	1
+bank-tab = 0	12322	2
+bank-tab = 0	12306	1
+bank-tab = 0	20191	1
+bank-tab = 0	20048	1
+bank-tab = 0	12312	1
+bank-tab = 0	12360	1
+bank-tab = 0	12284	1
+bank-tab = 0	12958	1
+bank-tab = 0	20188	1
+bank-tab = 0	13643	1
+bank-tab = 0	20162	1
+bank-tab = 0	2618	1
+bank-tab = 0	15099	1
+bank-tab = 0	22328	1
+bank-tab = 0	22329	1
+bank-tab = 0	13240	1
+bank-tab = 0	11774	1
+bank-tab = 0	11213	490
+bank-tab = 0	19554	1
+bank-tab = 0	20027	1
+bank-tab = 0	20156	1
+bank-tab = 1	12772	1
+bank-tab = 2	9749	1
+bank-tab = 3	9761	1
+
+
+[LOOTBAG]
+
+[RUNEPOUCH]
+
+[HERBSACK]
+
+[GEMBAG]
+
+[SAFEBOX]
+
+[FRIENDS]
+
+
+[HOLIDAY-EVENTS]
+
+[DEGRADEABLES]
+claim-state = false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+
+
+[ACHIEVEMENTS-TIER-1]
+pvmer_i = 5	false
+boss_hunter_i = 3	false
+theiving_task_i = 10	false
+
+
+[ACHIEVEMENTS-TIER-2]
+pvmer_ii = 5	false
+boss_hunter_ii = 3	false
+intermediate_thief = 10	false
+
+
+[ACHIEVEMENTS-TIER-3]
+slaughterer = 5	false
+boss_slaughterer = 3	false
+expert_thief = 10	false
+
+[IGNORES]
+
+[PRESETS]
+Names = New slot	New slot	New slot	New slot	New slot	New slot	New slot	New slot	New slot	New slot	
+Inventory#0 = 
+Equipment#0 = 
+Inventory#1 = 
+Equipment#1 = 
+Inventory#2 = 
+Equipment#2 = 
+Inventory#3 = 
+Equipment#3 = 
+Inventory#4 = 
+Equipment#4 = 
+Inventory#5 = 
+Equipment#5 = 
+Inventory#6 = 
+Equipment#6 = 
+Inventory#7 = 
+Equipment#7 = 
+Inventory#8 = 
+Equipment#8 = 
+Inventory#9 = 
+Equipment#9 = 
+
+[KILLSTREAKS]
+
+[TITLES]
+title = CONTRIBUTOR
+title = SPONSOR
+title = SUPPORTER
+title = V_I_P
+title = SUPER_V_I_P
+title = CUSTOM
+title = HELPER
+title = MODERATOR
+title = ADMINISTRATOR
+title = EXECUTIVE_OFFICER
+title = DO_YOU_LIFT
+
+[NPC-TRACKER]
+dagannoth prime = 1
+dagannoth supreme = 2
+
+[EOF]
+
